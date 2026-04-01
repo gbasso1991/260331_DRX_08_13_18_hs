@@ -1,4 +1,4 @@
-# Pico	Centro (2theta °)	Altura (u.a.)	FWHM (°)
+# Pico	Centro (2theta Â°)	Altura (u.a.)	FWHM (Â°)
 0	30.0837	178.32	0.2700
 1	35.4391	609.84	0.2814
 2	37.0648	38.21	0.4300

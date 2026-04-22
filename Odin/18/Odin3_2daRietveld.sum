@@ -1,0 +1,317 @@
+
+
+        **********************************************************
+        ** PROGRAM FullProf.2k (Version 8.20 - Feb2025-ILL JRC) **
+        **********************************************************
+                       M U L T I -- P A T T E R N                 
+            Rietveld, Profile Matching & Integrated Intensity     
+                 Refinement of X-ray and/or Neutron Data
+
+
+    Date: 17/10/2025  Time: 14:33:18.068                              
+
+ => PCR file code: Odin3_2daRietveld
+ => DAT file code: O2018S_2.dat         -> Relative contribution: 1.0000                                                            
+ => Title: FPOdin3_2da
+
+ ==> CONDITIONS OF THIS RUN FOR PATTERN No.:  1
+
+ => Global Refinement of X-ray powder diffraction data                                                                              
+ => Global Refinement of X-ray powder diffraction data                                                                              
+    Bragg-Brentano(X-rays) or Debye-Scherrer geometry(Neutrons)
+ => The    7th default profile function was selected
+
+ => X-Y type of data: 2theta/TOF/E(Kev) Intens sigma for pattern:  1
+ => Analysis of refinement at the end
+ => Wavelengths:  1.54060 1.54439
+ => Cos(Monochromator angle)=   0.7998
+ => Absorption correction (AC), muR-eff =   0.0000  0.0000
+ => Base of peaks: 2.0*HW*   16.00
+ ==> Angular range, step and number of points:
+     2Thmin:      20.120001  2Thmax:      80.000000  Step:       0.020007  No. of points:   2995
+ => Schakal File (*.sch) is output for phase: 1
+ =>-------> Pattern#  1
+ => Crystal Structure Refinement for phase: 1
+ => The density (volumic mass) of phase 1 is:    4.775 g/cm3
+ =>-------> Pattern#  1
+ => Crystal Structure Refinement for phase: 2
+ => The density (volumic mass) of phase 2 is:    5.444 g/cm3
+ => Scor: 1.6854
+
+ ==> RESULTS OF REFINEMENT:
+
+
+ => No. of fitted parameters:   24
+
+
+------------------------------------------------------------------------------
+ => Phase No.  1 Fe2O3                                   F d -3 m            
+------------------------------------------------------------------------------
+
+ =>  No. of reflections for pattern#:   1:    62/2
+
+
+ ==> ATOM PARAMETERS:
+
+  Name      x     sx       y     sy       z      sz      B   sB   occ. socc.  Mult
+ FE1     0.12500(   0)  0.12500(   0)  0.12500(   0)  0.012(  0)  0.045(  0)    8
+ FE2     0.50000(   0)  0.50000(   0)  0.50000(   0)  0.015(  0)  0.078(  0)   16
+ O       0.25149(   0)  0.25149(   0)  0.25149(   0)  0.004(  0)  0.167(  0)   32
+
+ ==> PROFILE PARAMETERS FOR PATTERN#  1
+
+ => Cell parameters      :
+                              8.37888   0.00065
+                              8.37888   0.00065
+                              8.37888   0.00065
+                             90.00000   0.00000
+                             90.00000   0.00000
+                             90.00000   0.00000
+ 
+ => overall scale factor :  0.3815360E-04 0.1399591E-05
+ => Eta(p-v) or m(p-vii) :    0.00000   0.00000
+ => Overall tem. factor  :    0.00000   0.00000
+ => Halfwidth parameters :    0.51598   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => Preferred orientation:    0.00000   0.00000
+                              0.00000   0.00000
+ => Asymmetry parameters :    0.00000   0.00000
+                             -0.02852   0.00295
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => X and y parameters   :    0.00000   0.00000
+                              0.30667   0.00000
+ => Strain parameters    :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => Size parameters (G,L):    0.18605   0.00654
+                              0.00010   0.00000
+
+ => Add. shape parameters: 
+                             0.109560       0.00000    
+                             0.517000E-02   0.00000    
+
+
+
+------------------------------------------------------------------------------
+ => Phase No.  2 Fe3O4                                   F d -3 m            
+------------------------------------------------------------------------------
+
+ =>  No. of reflections for pattern#:   1:    76/2
+
+
+ ==> ATOM PARAMETERS:
+
+  Name      x     sx       y     sy       z      sz      B   sB   occ. socc.  Mult
+ FE      0.12500(   0)  0.12500(   0)  0.12500(   0)  0.000(  0)  0.033(  0)    8
+ FE      0.50000(   0)  0.50000(   0)  0.50000(   0)  0.000(  0)  0.062(  0)   16
+ O       0.25364(   0)  0.25364(   0)  0.25364(   0)  0.000(  0)  0.167(  0)   32
+
+ ==> PROFILE PARAMETERS FOR PATTERN#  1
+
+ => Cell parameters      :
+                              8.41009   0.00157
+                              8.41009   0.00157
+                              8.41009   0.00157
+                             90.00000   0.00000
+                             90.00000   0.00000
+                             90.00000   0.00000
+ 
+ => overall scale factor :  0.7207628E-04 0.2824633E-05
+ => Eta(p-v) or m(p-vii) :    0.00000   0.00000
+ => Overall tem. factor  :    2.12844   0.15933
+ => Halfwidth parameters :    0.51824   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => Preferred orientation:    0.00000   0.00000
+                              0.00000   0.00000
+ => Asymmetry parameters :    0.00000   0.00000
+                              0.03355   0.00394
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => X and y parameters   :    0.00000   0.00000
+                              0.99276   0.03482
+ => Strain parameters    :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => Size parameters (G,L):    0.00428   0.00000
+                              0.00010   0.00000
+
+ => Add. shape parameters: 
+                             0.109560       0.00000    
+                             0.517000E-02   0.00000    
+
+
+
+ ==> GLOBAL PARAMETERS FOR PATTERN#  1
+
+
+ => Zero-point:     0.2394    0.0072
+ => Background Parameters (linear interpolation)  ==>
+                                 60.0601        1.67633    
+                                 59.9642        1.21599    
+                                 71.5946        1.26234    
+                                 71.7844        1.32895    
+                                 70.2729        1.10470    
+                                 34.6831       0.851571    
+                                 30.5317       0.667801    
+                                 35.0343       0.675376    
+                                 42.8276        1.04423    
+                                 44.7232        1.08430    
+                                 32.4006       0.721585    
+                                 33.2078       0.796761    
+                                 30.9823       0.888975    
+                                 20.9468       0.645642    
+ => Cos( theta)-shift parameter :   0.0000  0.0000
+ => Sin(2theta)-shift parameter :   0.0000  0.0000
+
+ ==> RELIABILITY FACTORS WITH ALL NON-EXCLUDED POINTS FOR PATTERN:  1
+
+  => Cycle:  1 => MaxCycle: 15
+ => N-P+C:  2971
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  7.91     Rwp:  10.7     Rexp:    9.50 Chi2:  1.27      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  12.9     Rwp:  15.6     Rexp:   13.87 Chi2:  1.27    
+ => Deviance:  0.381E+04     Dev*  :   1.278    
+ => DW-Stat.:    1.7006     DW-exp:     1.9026
+ => N-sigma of the GoF:       10.305
+
+ ==> RELIABILITY FACTORS FOR POINTS WITH BRAGG CONTRIBUTIONS FOR PATTERN:  1
+
+ => N-P+C:  2971
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  7.91     Rwp:  10.7     Rexp:    9.50 Chi2:  1.27      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  12.9     Rwp:  15.6     Rexp:   13.87 Chi2:  1.27    
+ => Deviance:  0.381E+04     Dev*  :   1.278    
+ => DW-Stat.:    1.7006     DW-exp:     1.9026
+ => N-sigma of the GoF:       10.305
+
+ => Global user-weigthed Chi2 (Bragg contrib.):   1.27    
+
+     -----------------------------------------------------
+     BRAGG R-Factors and weight fractions for Pattern #  1
+     -----------------------------------------------------
+
+ => Phase:  1     Fe2O3
+ => Bragg R-factor:   1.81       Vol:  588.245( 0.079)  Fract(%):   46.38( 2.11)
+ => Rf-factor=  1.30             ATZ:        1987.047   Brindley:  1.0000
+
+ => Phase:  2     Fe3O4
+ => Bragg R-factor:   2.65       Vol:  594.841( 0.193)  Fract(%):   53.62( 2.55)
+ => Rf-factor=  1.67             ATZ:        1202.486   Brindley:  1.0000
+
+
+       ----------------------------------------------------
+       -    ANALYSIS OF THE REFINEMENT FOR PATTERN #  1   -
+       ----------------------------------------------------
+
+
+ => GLOBAL INDICATORS:
+
+    The first and last reflections appears at:
+    2theta(degrees)/T.O.F(microsecs)/Energy(KeV) =>         30.029       131.379
+    s (angstroms-1) =>     0.3363    1.1831
+    D (angstroms  ) =>     2.9734    0.8453
+    sin(theta/lamb) =>     0.1682    0.5915
+    Q (angstroms-1) =>     4.2262   14.8670
+
+    The average FWHM is:   1.5635  Fwhm(av)/step =  78.1757
+
+ => Sum(Yiobs-Yical):     1782.22     297.98     934.13     699.43 <- Four regions
+            Total ->      3713.75
+
+  Expected Rp (background uncorrected):     6.95 Observed->     7.91
+  Expected cRp(background   corrected):    11.31 Observed->    12.87
+  -> Ratio Rp/Exp=cRp/cExp:     1.14
+  Weighted Average Bragg R-factor:     2.20
+  Weighted Average      RF-factor:     1.47
+  Reduced Chi-square :     1.27
+
+ => Total number of "independent" reflections:     69
+    Effective number (account for resolution) of reflections: 
+                      at level p=1.00  :  24.0
+                      at level p=0.50  :  26.3
+                      at level p=0.25  :  31.4
+
+    A reflection contributes as x/(x+nearest), where "x"  
+    is the fraction of the total area of the current phase and 
+   "nearest" is the number of adjacent reflections verifying the formula:
+
+    Postn-p*FWHM <= Postn(adjacent) <= Postn+p*FWHM 
+
+   "nearest" is weighted by the corresponding "x(s)" 
+
+ =>             Number of global  refined parameters:     15
+                Number of profile refined parameters:      9
+    Number of intensity-affecting refined parameters:      0
+      (Preferred orientation belongs to this class)   
+
+ => (Effective Number of reflections)/(Number of intensity parameters)= refni
+      Ratio ( Optimistic view,p=0.25):   31.4
+      Ratio (Pessimistic view,p=1.00):   24.0
+      Ratio (   Eclectic view,p=0.50):   26.3
+
+ => PHASE DEPENDENT INDICATORS:
+
+ => Positions and FWHM of the sharpest reflection
+
+     Phase  2Theta/TOF  FWHM     Q       DQ      Delta   Dd/d(%)
+
+       1      30.14   0.6862   2.1210  0.04717  0.17902  2.224
+       2      30.03   1.0833   2.1131  0.07448  0.17836  3.525
+
+   Q ,DQ(FWHM in Q-space) and Delta are given in 1/angstroms
+ Delta is the expected step between consecutive reflections at Q
+
+ Phase    %Cont  Nintdp  Nprofp   Nref      Enref(Effective)
+                                         R:p=1  R:p=1/2  R:p=1/4
+     1   53.81       0       4      31   15.53   16.22   16.22
+                                         15.53   16.22   16.22
+     2   46.19       0       5      38   16.39   16.39   17.16
+                                         16.39   16.39   17.16
+  Where:
+  %Cont: percentage of the total integrated intensity (100x)
+ Nintdp: Number of intensity-affecting refined parameters
+ Nprofp: Number of profile refined parameters
+   Nref: Number "independent" contributing reflections
+  Enref: Effective Number of reflections for each p-value
+R:p=1/n: Ratio Enref(Effective)/Nintdp <- "Solvability Index" 
+
+
+ => ANALYSIS OF STANDARD DEVIATIONS
+
+    Phase:  1 Degrees of freedom for p=1, 1/2, 1/4:            15.53           16.22           16.22
+              Chi2 based on integrated intensities:            13.42           12.85           12.85
+    Phase:  2 Degrees of freedom for p=1, 1/2, 1/4:            16.39           16.39           17.16
+              Chi2 based on integrated intensities:            21.69           21.69           20.71
+              Calculated with Scott'S FORMULA     :    34.09   31.16   26.30
+
+ => Standard deviations concern the PRECISION of parameters and
+    represent ACCURACY only if there is no systematic errors
+    A better estimate of the accuracy of structural parameters
+    is obtained multiplying sigmas by the parameter SCOR
+ -> SCOR =   1.6854 { Berar'S FORMULA}
+ -> SCOR =   8.8417 {Pawley'S FORMULA}
+ -> Application of modified Scott'S FORMULA
+    SCOR(p=1,1/2,1/4) =             3.25            3.18            3.18
+    SCOR(p=1,1/2,1/4) =             4.14            4.14            4.04
+    SCOR(expected Si) =       5.1863      4.9583      4.5556
+   Warning! Do not take into account Scott'S SCOR
+            These indicators are under test....
+
+ => ANALYSIS OF CORRELATED PARAMETERS 
+
+  -> The parameter:    9 appears   3 times
+  -> The parameter:   10 appears   3 times
+  -> The number of correlated parameters is :   2
+
+ => Your refinement seems to be very good!
+
+ 
+              CPU Time:     2.387 seconds
+                            0.040 minutes
+
+ => Run finished at:     Date: 17/10/2025  Time: 14:33:20.475                              

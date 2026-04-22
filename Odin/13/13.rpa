@@ -1,0 +1,1393 @@
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:10:41.719                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       2       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.40196   8.40196   8.40196  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000006180   0.000000000
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.0080   0.0000   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0106   0.0000   0.0424   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1355   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.00766   0.00000
+RFAR   37.20      72.35      16.95      18.22    
+RFAC   134.5      170.7      39.99      18.22        2995
+DEVA  0.3001E+05  9.955     0.1440      1.886    
+RFBR   41.36      77.86      17.22      20.45    
+RFBC   129.0      171.8      37.99      20.45        2651
+DEVB  0.2965E+05  11.11     0.1449      1.879    
+BRAG1   33.281   19.916     593.120     100.000    3597.942       1.000
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:11:43.468                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       2       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.36337   8.36337   8.36337  90.00000  90.00000  90.00000
+SIGM    0.00013   0.00013   0.00013   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000006180   0.000000000
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.0080   0.0000   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0106   0.0000   0.0424   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1355   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.00766   0.00000
+RFAR   21.29      28.67      16.95      2.862    
+RFAC   76.97      67.64      39.99      2.862        2994
+DEVA   7368.      2.445     0.6934      1.887    
+RFBR   22.82      30.29      17.21      3.097    
+RFBC   71.14      66.85      37.99      3.097        2650
+DEVB   7013.      2.629     0.7239      1.880    
+BRAG1   22.702   14.222     584.985     100.000    3597.942       1.000
+EXRP   11.241   1.894
+REFL    18   16.00   16.00   16.00
+REFP     0    1    0
+SOLV    16.00   16.00   16.00
+SCOR       3.2043
+SCOR1              5.02            5.02            5.02
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:11:51.583                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       2       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.36295   8.36295   8.36295  90.00000  90.00000  90.00000
+SIGM    0.00013   0.00013   0.00013   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000006180   0.000000000
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.0080   0.0000   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0106   0.0000   0.0424   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1355   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.00766   0.00000
+RFAR   21.07      28.21      16.95      2.771    
+RFAC   76.20      66.57      39.99      2.771        2994
+DEVA   7217.      2.395     0.7144      1.887    
+RFBR   22.62      29.83      17.22      3.001    
+RFBC   70.29      65.73      37.94      3.001        2643
+DEVB   6857.      2.577     0.7471      1.880    
+BRAG1   19.780   12.438     584.897     100.000    3597.942       1.000
+EXRP   11.314   1.863
+REFL    18   16.00   16.00   16.00
+REFP     0    1    0
+SOLV    16.00   16.00   16.00
+SCOR       3.1698
+SCOR1              5.26            5.26            5.26
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:12:25.757                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       2       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.36288   8.36288   8.36288  90.00000  90.00000  90.00000
+SIGM    0.00014   0.00014   0.00014   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000004186   0.000000045
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.0080   0.0000   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0106   0.0000   0.0424   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1355   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.00766   0.00000
+RFAR   17.53      21.53      16.94      1.615    
+RFAC   63.39      50.80      39.98      1.615        2993
+DEVA   5542.      1.840      1.152      1.888    
+RFBR   18.47      22.39      17.22      1.691    
+RFBC   57.42      49.33      37.93      1.691        2642
+DEVB   5183.      1.948      1.246      1.881    
+BRAG1   28.132   22.697     584.880     100.000    3597.942       1.000
+EXRP   11.204   1.565
+REFL    18   16.00   16.00   16.00
+REFP     0    2    0
+SOLV    16.00   16.00   16.00
+SCOR       2.2066
+SCOR1              8.75            8.75            8.75
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:12:29.047                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       2       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.36287   8.36287   8.36287  90.00000  90.00000  90.00000
+SIGM    0.00014   0.00014   0.00014   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000004154   0.000000045
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.0080   0.0000   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0106   0.0000   0.0424   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1355   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.00766   0.00000
+RFAR   17.50      21.51      16.94      1.611    
+RFAC   63.29      50.75      39.98      1.611        2993
+DEVA   5569.      1.848      1.153      1.888    
+RFBR   18.44      22.37      17.22      1.688    
+RFBC   57.31      49.28      37.93      1.688        2642
+DEVB   5209.      1.958      1.247      1.881    
+BRAG1   29.222   23.288     584.879     100.000    3597.942       1.000
+EXRP   11.133   1.572
+REFL    18   16.00   16.00   16.00
+REFP     0    2    0
+SOLV    16.00   16.00   16.00
+SCOR       2.2089
+SCOR1              9.03            9.03            9.03
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:12:53.797                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       2       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:13:08.768                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       2       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.36287   8.36287   8.36287  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000004154   0.000000045
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.0080   0.0000   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0106   0.0000   0.0424   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1355   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.02010   0.00161
+RFAR   17.27      21.22      16.94      1.568    
+RFAC   62.43      50.07      39.98      1.568        2993
+DEVA   5439.      1.805      1.182      1.888    
+RFBR   18.16      22.04      17.22      1.639    
+RFBC   56.45      48.56      37.93      1.639        2642
+DEVB   5080.      1.909      1.281      1.881    
+BRAG1   29.924   23.555     584.879     100.000    3597.942       1.000
+EXRP   11.299   1.528
+REFL    18   16.00   16.00   16.00
+REFP     1    1    0
+SOLV    16.00   16.00   16.00
+SCOR       2.1562
+SCOR1              9.13            9.13            9.13
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:13:41.282                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       2       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.36287   8.36287   8.36287  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000004154   0.000000045
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.0080   0.0000   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0106   0.0000   0.0424   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1355   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.02013   0.00161
+RFAR   17.27      21.22      16.94      1.568    
+RFAC   62.43      50.07      39.98      1.568        2993
+DEVA   5438.      1.805      1.182      1.888    
+RFBR   18.16      22.04      17.22      1.639    
+RFBC   56.45      48.56      37.93      1.639        2642
+DEVB   5079.      1.909      1.281      1.881    
+BRAG1   29.734   23.412     584.879     100.000    3597.942       1.000
+EXRP   11.166   1.546
+REFL    18   16.00   16.00   16.00
+REFP     1    1    0
+SOLV    16.00   16.00   16.00
+SCOR       2.1560
+SCOR1              9.15            9.15            9.15
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:14:23.955                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       2       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:14:46.314                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       2       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.36287   8.36287   8.36287  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000003955   0.000000044
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.0080   0.0000   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0106   0.0000   0.0424   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1355   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.02013   0.00000
+RFAR   15.60      19.84      16.90      1.379    
+RFAC   70.12      49.44      42.10      1.379        2978
+DEVA   4396.      1.467      1.437      1.898    
+RFBR   16.25      20.56      17.17      1.435    
+RFBC   63.39      47.85      39.95      1.435        2627
+DEVB   4057.      1.535      1.565      1.892    
+BRAG1   15.966   12.995     584.879     100.000    3597.942       1.000
+EXRP   13.452   1.160
+REFL    18   16.00   16.00   16.00
+REFP    16    1    0
+SOLV    16.00   16.00   16.00
+SCOR       1.9355
+SCOR1              4.51            4.51            4.51
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:15:56.181                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       2       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.36287   8.36287   8.36287  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000004207   0.000000045
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.1973   0.0152   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0106   0.0000   0.0424   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1355   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.02013   0.00000
+RFAR   15.01      19.10      16.90      1.278    
+RFAC   65.17      47.29      41.83      1.278        2977
+DEVA   3932.      1.313      1.542      1.899    
+RFBR   15.56      19.73      17.16      1.321    
+RFBC   58.63      45.61      39.68      1.321        2626
+DEVB   3592.      1.359      1.692      1.893    
+BRAG1   26.362   18.212     584.879     100.000    3597.942       1.000
+EXRP   12.660   1.186
+REFL    18   16.00   16.00   16.00
+REFP    16    2    0
+SOLV    16.00   16.00   16.00
+SCOR       1.7815
+SCOR1              4.30            4.30            4.30
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:16:18.287                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       2       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.36287   8.36287   8.36287  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000004265   0.000000052
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.1973   0.0000   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0106   0.0000   0.0424   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1445   0.0045
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.02013   0.00000
+RFAR   14.98      19.08      16.90      1.275    
+RFAC   64.03      47.09      41.71      1.275        2977
+DEVA   3913.      1.306      1.547      1.899    
+RFBR   15.42      19.59      17.10      1.312    
+RFBC   58.45      45.68      39.89      1.312        2678
+DEVB   3632.      1.348      1.671      1.894    
+BRAG1   14.217   10.906     584.879     100.000    3597.942       1.000
+EXRP   13.062   1.147
+REFL    20   17.00   17.00   17.00
+REFP    16    2    0
+SOLV    17.00   17.00   17.00
+SCOR       1.7625
+SCOR1              4.42            4.42            4.42
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:16:45.727                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       2       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.36287   8.36287   8.36287  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000004265   0.000000052
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.1973   0.0000   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0106   0.0000   0.0424   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1445   0.0045
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.02046   0.00184
+RFAR   14.98      19.08      16.89      1.275    
+RFAC   63.82      47.05      41.67      1.275        2976
+DEVA   3919.      1.309      1.545      1.899    
+RFBR   15.43      19.59      17.09      1.314    
+RFBC   58.46      45.71      39.88      1.314        2683
+DEVB   3650.      1.352      1.664      1.895    
+BRAG1   14.314   10.986     584.879     100.000    3597.942       1.000
+EXRP   13.095   1.144
+REFL    20   17.00   17.00   17.00
+REFP    17    2    0
+SOLV    17.00   17.00   17.00
+SCOR       1.7632
+SCOR1              4.48            4.48            4.48
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:17:05.381                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       2       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:17:19.390                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       2       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.36479   8.36479   8.36479  90.00000  90.00000  90.00000
+SIGM    0.00017   0.00017   0.00017   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000004278   0.000000044
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.1973   0.0000   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0106   0.0000   0.0424   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1445   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.02046   0.00000
+RFAR   15.00      18.96      16.90      1.259    
+RFAC   63.72      46.74      41.66      1.259        2977
+DEVA   3862.      1.289      1.564      1.899    
+RFBR   15.44      19.46      17.10      1.296    
+RFBC   58.38      45.39      39.87      1.296        2684
+DEVB   3592.      1.330      1.685      1.894    
+BRAG1   14.245   11.079     585.282     100.000    3597.942       1.000
+EXRP   12.707   1.180
+REFL    20   17.00   17.00   17.00
+REFP    16    2    0
+SOLV    17.00   17.00   17.00
+SCOR       1.7501
+SCOR1              4.54            4.54            4.54
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:17:46.523                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       2       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:18:08.778                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       2       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:18:40.908                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       0       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.37436   8.37436   8.37436  90.00000  90.00000  90.00000
+SIGM    0.00040   0.00040   0.00040   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000004228   0.000000043
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.1973   0.0000   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM   -0.1984   0.0168   0.0424   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1445   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.02046   0.00000
+RFAR   14.81      18.60      16.89      1.212    
+RFAC   63.80      45.98      41.77      1.212        2976
+DEVA   3682.      1.230      1.630      1.899    
+RFBR   15.23      19.06      17.09      1.243    
+RFBC   58.42      44.58      39.98      1.243        2684
+DEVB   3413.      1.263      1.761      1.895    
+BRAG1   13.870   11.372     587.294     100.000    3597.942       1.000
+EXRP   13.195   1.122
+REFL    20   17.00   17.00   17.00
+REFP    16    3    0
+SOLV    17.00   17.00   17.00
+SCOR       1.5457
+SCOR1              4.55            4.55            4.55
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:19:12.682                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       0       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.37443   8.37443   8.37443  90.00000  90.00000  90.00000
+SIGM    0.00043   0.00043   0.00043   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000004286   0.000000044
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.2788   0.0170   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM   -0.1963   0.0167   0.0424   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1445   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.02046   0.00000
+RFAR   14.59      18.40      16.89      1.186    
+RFAC   62.31      45.40      41.69      1.186        2975
+DEVA   3595.      1.201      1.664      1.900    
+RFBR   14.97      18.83      17.09      1.214    
+RFBC   56.96      43.98      39.91      1.214        2684
+DEVB   3326.      1.231      1.801      1.895    
+BRAG1   13.852   11.357     587.307     100.000    3597.942       1.000
+EXRP   12.669   1.151
+REFL    20   17.00   17.00   17.00
+REFP    16    4    0
+SOLV    17.00   17.00   17.00
+SCOR       1.4942
+SCOR1              4.55            4.55            4.55
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:19:36.656                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       0       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.37477   8.37477   8.37477  90.00000  90.00000  90.00000
+SIGM    0.00044   0.00044   0.00044   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000004314   0.000000044
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.3190   0.0180   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM   -0.2705   0.0192  -0.0022   0.0055   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1445   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.02046   0.00000
+RFAR   14.29      18.16      16.89      1.156    
+RFAC   60.76      44.77      41.65      1.156        2974
+DEVA   3494.      1.168      1.705      1.901    
+RFBR   14.60      18.52      17.07      1.178    
+RFBC   55.64      43.40      39.98      1.178        2700
+DEVB   3239.      1.192      1.842      1.896    
+BRAG1   13.258   11.055     587.380     100.000    3597.942       1.000
+EXRP   12.694   1.125
+REFL    21   18.00   18.00   18.00
+REFP    16    5    0
+SOLV    18.00   18.00   18.00
+SCOR       1.4234
+SCOR1              4.38            4.38            4.38
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:20:14.725                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       0       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.37477   8.37477   8.37477  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000004314   0.000000000
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.3190   0.0000   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM   -0.2705   0.0000  -0.0022   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1445   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.02046   0.00000
+RFAR   14.29      18.16      16.95      1.148    
+RFAC   60.75      44.77      41.79      1.148        2995
+DEVA   3493.      1.159      1.705      1.886    
+RFBR   14.59      18.52      17.13      1.169    
+RFBC   55.80      43.45      40.18      1.169        2728
+DEVB   3246.      1.182      1.838      1.881    
+BRAG1   13.138   10.988     587.380     100.000    3597.942       1.000
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:28:01.129                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       0       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0     1
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    1    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.37477   8.37477   8.37477  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000004314   0.000000000
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.3190   0.0000   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM   -0.2705   0.0000  -0.0022   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1445   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.02046   0.00000
+RFAR   14.29      18.16      16.95      1.148    
+RFAC   60.75      44.77      41.79      1.148        2995
+DEVA   3493.      1.159      1.705      1.886    
+RFBR   14.59      18.52      17.13      1.169    
+RFBC   55.80      43.45      40.18      1.169        2728
+DEVB   3246.      1.182      1.838      1.881    
+BRAG1   13.138   10.988     587.380     100.000    3597.942       1.000
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:29:19.635                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       0       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.37477   8.37477   8.37477  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000004313   0.000000042
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.3190   0.0000   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM   -0.2705   0.0000  -0.0022   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1445   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.02043   0.00178
+RFAR   14.29      18.16      16.90      1.155    
+RFAC   60.75      44.77      41.67      1.155        2977
+DEVA   3493.      1.166      1.705      1.899    
+RFBR   14.59      18.52      17.07      1.177    
+RFBC   55.80      43.45      40.05      1.177        2710
+DEVB   3246.      1.190      1.838      1.894    
+BRAG1   13.137   10.988     587.380     100.000    3597.942       1.000
+EXRP   13.033   1.096
+REFL    21   18.00   18.00   18.00
+REFP    17    1    0
+SOLV    18.00   18.00   18.00
+SCOR       1.4235
+SCOR1              4.38            4.38            4.38
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:29:36.619                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       0       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.37535   8.37535   8.37535  90.00000  90.00000  90.00000
+SIGM    0.00058   0.00058   0.00058   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000004316   0.000000042
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.3190   0.0000   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM   -0.2705   0.0000  -0.0022   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1445   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.02321   0.00608
+RFAR   14.26      18.13      16.89      1.152    
+RFAC   60.62      44.71      41.66      1.152        2976
+DEVA   3484.      1.163      1.710      1.899    
+RFBR   14.56      18.49      17.07      1.174    
+RFBC   55.68      43.38      40.03      1.174        2709
+DEVB   3236.      1.187      1.842      1.895    
+BRAG1   13.085   10.988     587.500     100.000    3597.942       1.000
+EXRP   12.865   1.109
+REFL    21   18.00   18.00   18.00
+REFP    17    2    0
+SOLV    18.00   18.00   18.00
+SCOR       1.4175
+SCOR1              4.38            4.38            4.38
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:30:10.420                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       0       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.37533   8.37533   8.37533  90.00000  90.00000  90.00000
+SIGM    0.00057   0.00057   0.00057   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000004315   0.000000041
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.3204   0.0174   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM   -0.2705   0.0000  -0.0022   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1445   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.02324   0.00605
+RFAR   14.26      18.13      16.94      1.146    
+RFAC   60.64      44.72      41.76      1.146        2991
+DEVA   3484.      1.158      1.709      1.889    
+RFBR   14.56      18.50      17.11      1.168    
+RFBC   55.69      43.39      40.15      1.168        2724
+DEVB   3237.      1.181      1.842      1.884    
+BRAG1   13.105   10.996     587.496     100.000    3597.942       1.000
+EXRP   11.628   1.227
+REFL    21   18.00   18.00   18.00
+REFP     1    3    0
+SOLV    18.00   18.00   18.00
+SCOR       1.4181
+SCOR1              4.40            4.40            4.40
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:30:25.734                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       0       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.37534   8.37534   8.37534  90.00000  90.00000  90.00000
+SIGM    0.00060   0.00060   0.00060   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000004423   0.000000045
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.3204   0.0000   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM   -0.2705   0.0000  -0.0022   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1685   0.0043
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.02361   0.00637
+RFAR   14.07      18.07      16.94      1.139    
+RFAC   59.79      44.56      41.76      1.139        2991
+DEVA   3437.      1.142      1.730      1.889    
+RFBR   14.34      18.42      17.11      1.159    
+RFBC   54.86      43.23      40.15      1.159        2725
+DEVB   3190.      1.163      1.866      1.884    
+BRAG1   10.968    9.849     587.499     100.000    3597.942       1.000
+EXRP   11.812   1.191
+REFL    21   18.00   18.00   18.00
+REFP     1    3    0
+SOLV    18.00   18.00   18.00
+SCOR       1.3766
+SCOR1              3.90            3.90            3.90
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:30:43.075                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       0       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.38431   8.38431   8.38431  90.00000  90.00000  90.00000
+SIGM    0.00104   0.00104   0.00104   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000004306   0.000000042
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.3204   0.0000   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM   -0.0450   0.1417  -0.0093   0.0081   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1139   0.0036
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.13905   0.04292
+RFAR   13.68      17.60      16.93      1.081    
+RFAC   58.14      43.40      41.75      1.081        2989
+DEVA   3303.      1.098      1.806      1.890    
+RFBR   13.89      17.90      17.09      1.096    
+RFBC   53.60      42.12      40.23      1.096        2739
+DEVB   3072.      1.114      1.943      1.886    
+BRAG1   12.889   11.042     589.388     100.000    3597.942       1.000
+EXRP   11.856   1.153
+REFL    21   18.00   18.00   18.00
+REFP     1    5    0
+SOLV    18.00   18.00   18.00
+SCOR       1.2784
+SCOR1              4.41            4.41            4.41
+--------------------------------------------------------------------------------
+TITL  13
+FILES => PCR-file : 13
+FILES => DAT-files: 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+DATE & TIME     Date: 06/04/2026  Time: 11:30:48.006                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       0       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7      16       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    2     3     1     1     1     1     4     0     0    -3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2   10     1     1     1     2     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    1     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    2     3     1     1     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3   -3    10     1     2     1
+PHAS1 Fe3O4                         
+SPGR F d -3 m            
+NATM    3
+COND    0   0   0   0
+ATOM FE1      0.12500   0.12500   0.12500   0.01153   0.05938  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM FE2      0.50000   0.50000   0.50000   0.01482   0.10284  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+ATOM O        0.25581   0.25581   0.25581   0.00370   0.25562  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    8.38436   8.38436   8.38436  90.00000  90.00000  90.00000
+SIGM    0.00104   0.00104   0.00104   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000004300   0.000000042
+SHAP   0.00000  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.3204   0.0000   0.0000   0.0000   0.0000   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM   -0.0437   0.1416  -0.0090   0.0081   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0000   0.0000   0.1139   0.0036
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0008   0.0000   0.0001   0.0000
+ZERO    0.13893   0.04286
+RFAR   13.67      17.60      16.93      1.080    
+RFAC   58.11      43.39      41.75      1.080        2989
+DEVA   3299.      1.097      1.807      1.890    
+RFBR   13.93      17.95      17.13      1.097    
+RFBC   52.74      41.87      39.98      1.097        2698
+DEVB   3029.      1.116      1.971      1.885    
+BRAG1   12.691   10.954     589.400     100.000    3597.942       1.000
+EXRP   11.588   1.180
+REFL    21   18.00   18.00   18.00
+REFP     1    5    0
+SOLV    18.00   18.00   18.00
+SCOR       1.2769
+SCOR1              4.37            4.37            4.37
+--------------------------------------------------------------------------------
